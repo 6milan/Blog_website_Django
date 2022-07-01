@@ -1,3 +1,3 @@
 # Blog
 
-Django frame work.
+Django frame work used in creating my blog site.
